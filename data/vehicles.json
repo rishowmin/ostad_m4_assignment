@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Toyota",
+        "type": "Car",
+        "price": "200",
+        "image": "https:\/\/toyota.com.bd\/media\/images\/Brand_New_Toyota_Camry_Hybrid_T.2e16d0ba.fill-680x381-c0.png"
+    },
+    {
+        "name": "Suzuki",
+        "type": "Bike",
+        "price": "100",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcS9-EOJFF3HwO25THvXzXR8d4ecl8edV40aCw&s"
+    },
+    {
+        "name": "Mercedes Benz",
+        "type": "Bus",
+        "price": "300",
+        "image": "https:\/\/sehgaltransport.com\/wp-content\/uploads\/2024\/09\/Mercedes-Benz-Bus.webp"
+    }
+]
